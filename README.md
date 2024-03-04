@@ -71,3 +71,5 @@ The Api Rest have the following endpoints:
 **To have a user with ADMIN ROLE, you need to assign the role from db, with this user, you can create any ADMIN user with the endpoint *POST /api/users***.
 
 *To know about the JSON required for the operations check the entities package.*
+
+Be yourself 😄.
